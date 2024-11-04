@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ironcoletor-dev-439d7-authRole",
+      "UnauthRoleArn": "arn:aws:iam::339712831992:role/amplify-ironcoletor-dev-439d7-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::339712831992:role/amplify-ironcoletor-dev-439d7-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-ironcoletor-dev-439d7-deployment",
+      "UnauthRoleName": "amplify-ironcoletor-dev-439d7-unauthRole",
+      "StackName": "amplify-ironcoletor-dev-439d7",
+      "StackId": "arn:aws:cloudformation:us-east-2:339712831992:stack/amplify-ironcoletor-dev-439d7/a250dda0-96cf-11ef-95cb-0ada474d4195",
+      "AmplifyAppId": "d1xq5d498zs9ff"
+    },
+    "categories": {
+      "auth": {
+        "ironcoletor85cd7641": {}
+      },
+      "api": {
+        "ironcoletor": {}
+      }
+    }
+  }
+}

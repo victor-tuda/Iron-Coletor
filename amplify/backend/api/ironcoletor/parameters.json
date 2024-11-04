@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "ironcoletor",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2024-10-31T20:27:11.322Z"
+}
